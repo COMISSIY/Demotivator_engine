@@ -1,2 +1,2 @@
 # Demotivator_engine
-In "__init__" method on the class "Demotivator" change variable "self.inp" for first line and "self.inp2" for second line
+In the "__init__" method of the "Demotivator" class, change the variable "self.in" for the first line and "self.inp2" for the second line.
